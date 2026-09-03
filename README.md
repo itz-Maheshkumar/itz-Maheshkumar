@@ -4,6 +4,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-itz--maheshkumar.github.io-39FF14?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117)](https://itz-maheshkumar.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maheshkumar--v-39FF14?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117)](https://www.linkedin.com/in/maheshkumar-v/)
 [![Gmail](https://img.shields.io/badge/Gmail-Maheshkumarv1555-39FF14?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117)](mailto:Maheshkumarv1555@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-mahesh.ez-39FF14?style=for-the-badge&logo=discord&logoColor=black&labelColor=0d1117)](https://discord.com/users/mahesh.ez)
@@ -23,6 +24,7 @@ itz-maheshkumar@github ~ % whoami
 name:        Maheshkumar V
 role:        MSc Computer Science Student
 based_in:    Tamil Nadu, India
+portfolio:   https://itz-maheshkumar.github.io/
 currently:
   - Building LLM applications on open-source models
   - Exploring agentic AI: multi-step, tool-using, orchestrated agents
@@ -115,16 +117,18 @@ An AI-powered agent that automates and orchestrates sequences of tasks — built
 ## `$ git log --stats`
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=itz-Maheshkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-Maheshkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" />
-</div>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=itz-Maheshkumar&theme=tokyonight&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 </div>
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itz-Maheshkumar&theme=react-dark&hide_border=true&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itz-Maheshkumar/itz-Maheshkumar/output/github-metrics.svg" />
+  <img alt="GitHub metrics" src="https://raw.githubusercontent.com/itz-Maheshkumar/itz-Maheshkumar/output/github-metrics.svg" />
+</picture>
+
+<sub>⚙️ self-hosted via a GitHub Action (open source: lowlighter/metrics) — no third-party server, so no more broken-image icons — see setup notes</sub>
+
 </div>
 
 <br/>
