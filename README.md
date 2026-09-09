@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Maheshkumar+V;MSc+Computer+Science+Student;Building+LLM+%26+Agentic+AI+Applications;Turning+curiosity+into+code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Maheshkumar+Venkatachalam;MSc+Computer+Science+Student;Building+LLM+%26+Agentic+AI+Applications;Turning+curiosity+into+code." alt="Typing SVG" />
 
 <br/>
 
@@ -21,7 +21,7 @@ itz-maheshkumar@github ~ % whoami
 ```
 
 ```yaml
-name:        Maheshkumar V
+name:        Maheshkumar Venkatachalam
 role:        MSc Computer Science Student
 based_in:    Tamil Nadu, India
 portfolio:   https://itz-maheshkumar.github.io/
@@ -154,7 +154,6 @@ An AI-powered agent that automates and orchestrates sequences of tasks — built
 - 🎓 Database and SQL Querying — Udemy (2025)
 - 🎓 Problem Solving using C — NPTEL (2024)
 - 🎓 Agentic AI — Hugging Face (2026)
-- 🎓 MCP Server — Hugging Face (2026)
 - 🎓 GitHub Foundations — DataCamp (2026)
 - 🎓 Claude Code in Action — Anthropic Academy (2026)
 - 🎓 Building with Claude API — Anthropic Academy (2026)
